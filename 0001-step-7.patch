@@ -1,0 +1,24 @@
+From 0582050999364c4f7347b4d6142b44e12ad1dcc8 Mon Sep 17 00:00:00 2001
+From: Temirlan A <gankstargamer@gmail.com>
+Date: Tue, 5 Aug 2025 21:39:20 +0500
+Subject: [PATCH] step 7
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 1465288..ce35280 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-hhmmm.. there is something..
+-something beautiful about life 
++hhmmm.. there is something..you know?..
++something beautiful about life...which is hidden...
+ even though we lose it sometimes
+ we can enjoy it fully 
+ and when you smile 
+-- 
+2.44.0.windows.1
+
